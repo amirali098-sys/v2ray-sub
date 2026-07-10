@@ -9,3 +9,13 @@ trojan://humanity@162.159.38.119:443?security=tls&sni=www.calmloud.com&insecure=
 trojan://humanity@162.159.38.119:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Generalconfiig
 trojan://humanity@162.159.38.119:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 trojan://humanity@162.159.38.119:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40sil3nt_network
+socks://TV9ZT1VfRDpQcml2YXRl@pl1.cactussstp.com:1080#EPODONIOS
+socks://TV9ZT1VfRDpQcml2YXRl@pl1.cactussstp.com:1080#EPODONIOS
+trojan://zBfIAxaXtz@151.101.34.144:443?security=tls&sni=global.fastly.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=edgezvx.global.ssl.fastly.net&path=%2Fdb&mode=packet-up#EPODONIOS
+trojan://zBfIAxaXtz@151.101.34.144:443?security=tls&sni=global.fastly.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=edgezvx.global.ssl.fastly.net&path=%2Fdb&mode=packet-up#EPODONIOS
+trojan://zBfIAxaXtz@151.101.34.144:443?security=tls&sni=global.fastly.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=edgezvx.global.ssl.fastly.net&path=%2Fdb&mode=packet-up#EPODONIOS
+trojan://zBfIAxaXtz@151.101.34.144:443?security=tls&sni=global.fastly.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=edgezvx.global.ssl.fastly.net&path=%2Fdb&mode=packet-up#EPODONIOS
+hysteria2://eltgrek81o6w5cd4@social.klipp.su:443?sni=social.klipp.su&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMVlTV05WV2Z1Zm9scGxL@20.164.202.74:443?#EPODONIOS
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&security=tls&sni=186.190.211.188&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#EPODONIOS
+trojan://zBfIAxaXtz@151.101.34.144:443?security=tls&sni=global.fastly.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=edgezvx.global.ssl.fastly.net&path=%2Fdb&mode=packet-up#EPODONIOS
